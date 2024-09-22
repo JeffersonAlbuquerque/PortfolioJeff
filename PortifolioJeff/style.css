@@ -1,0 +1,36 @@
+header
+{
+    width: 100%;
+    height: 100px;
+    background-color: #1b1b1b;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+.menuDeNavegacao
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.menuInterativo
+{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 70px;
+    width: 90%;
+    height: 100px;
+}
+.menuInterativo a
+{
+    margin: 30px;
+}
+.logoSite
+{
+    margin-left: 60px;
+    width: 370px; /*largura*/
+    height: 70px; /*Altura*/
+}
